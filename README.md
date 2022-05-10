@@ -1,2 +1,2 @@
 #About the Odin Recipes Project:
-###A lasagna recipe to demostrate some basic HTML 
+###A recipe site to demostrate some basic HTML 
