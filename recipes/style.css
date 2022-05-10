@@ -1,0 +1,51 @@
+body {
+    background-color: #FFFFF4;
+}
+
+h1 {
+    color: black;
+    font-size: 50px;
+    font-family:Lucida Sans;
+    padding: 30px;
+    margin: 20px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    color: #6F7B7E;
+    padding: 10px;
+    margin: 40px;
+}
+
+img {
+    display: block;
+    margin-left: 100px;
+}
+
+h3 {
+    color: black;
+    margin: 70px;
+    font-size: 25px;
+    text-decoration: underline;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+ol, ul {
+    font-family: arial;
+    color: #331a00;
+    font-size: 20px;
+    margin: 100px;
+    line-height: 1.5em;
+    margin-top: 5px;
+    margin-bottom: 50px;
+}
+
+.buffer {
+    margin: 40px;
+    font-size: 20px;
+    font-family: verdana;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
