@@ -5,13 +5,13 @@ body {
 h1 {
     color: black;
     font-size: 50px;
-    font-family:Lucida Sans;
+    font-family:Lucida Sans, verdana, arial;
     padding: 30px;
     margin: 20px;
 }
 
 p {
-    font-family: verdana;
+    font-family: verdana, arial;
     font-size: 20px;
     color: #6F7B7E;
     padding: 10px;
@@ -20,6 +20,8 @@ p {
 
 img {
     display: block;
+    height: auto;
+    width: 500px;
     margin-left: 100px;
 }
 
@@ -45,7 +47,8 @@ ol, ul {
 .buffer {
     margin: 40px;
     font-size: 20px;
-    font-family: verdana;
+    font-family: verdana, arial;
+    font-weight: 500;
     margin-top: 5px;
     margin-bottom: 30px;
 }
